@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Dave 👋
+I'm a software architect and software engineer at [Unic](https://www.unic.com) in Switzerland 🇨🇭. My current roles at Unic are visible at my [public profile](https://www.unic.com/david-daester)
+
+I grew up with coffee, so I'm very familiar with the JVM stack. But do not ask me to programm in Java, I advocate for [Kotlin](https://kotlinlang.org/) or [Scala](https://www.scala-lang.org/)
 
 <!--
 **Swissbite/swissbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
