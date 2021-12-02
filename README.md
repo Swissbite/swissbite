@@ -11,17 +11,17 @@ I'm in love with functional programming languages. At the moment, I'm teaching m
 3. *Français* (Je vous demande d'être indulgent.)
 
 ### My last projects
-- Relaunch [energieschweiz.ch](https://www.energieschweiz.ch), redesign the architetcure to be fully headless, content reusable and static site generated with a lot of services and Tools. My roles:
+- Relaunch [energieschweiz.ch](https://www.energieschweiz.ch), redesign of the architecture to a completely headless, content reusable and statically generated site with many services and tools. My roles:
   - Software and solution architect
   - Content model architect
   - Software engineer and technical lead
-  - Writer of a [blog post](https://www.unic.com/de/magazin/experten-blog/2021/headless-energieschweiz) about the architecture
-- Relaunch of [salz.ch](https://www.salz.ch), design the architeture to be headless and guide the team to create a distributed system
+  - Author of a [blog post](https://www.unic.com/de/magazin/experten-blog/2021/headless-energieschweiz) about the architecture
+- Relaunch of [salz.ch](https://www.salz.ch), ddesigned the headless architecture and guided the team to build a distributed system
   - Solution architect
   - DevOps enabler
   - Kubernetes tamer
   - CI/CD Pipeline creator
-
+  - Automation promoter
 
 <!--
 **Swissbite/swissbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
