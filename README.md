@@ -3,7 +3,7 @@ I'm a software architect and software engineer at [Unic](https://www.unic.com) i
 
 I grew up with coffee, so I'm very familiar with the **JVM** stack. But do not ask me to programm in Java, I advocate for [**Kotlin**](https://kotlinlang.org/) or [**Scala**](https://www.scala-lang.org/).
 
-I'm in love with functional programming languages. At the moment, I'm teaching myself [**elm**-lang](https://elm-lang.org/)
+I'm in love with functional programming languages. At the moment, I'm teaching myself [**elm**-lang](https://elm-lang.org/). My self-teaching project is (yet another) [**elm-minesweeper**](https://github.com/swissbite/elm-minesweeper)
 
 ### Languages I can communicate with you:
 1. (Swiss)-German
@@ -23,7 +23,7 @@ I'm in love with functional programming languages. At the moment, I'm teaching m
   - CI/CD Pipeline creator
   - Automation promoter
 
-Older projects (like it would be on my summary) are available in [project.md](/projects.md)
+An overview of my projects (like it would be on a way to long summary) are available in [projects](/projects.md)
 <!--
 **Swissbite/swissbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
