@@ -23,6 +23,7 @@ I'm in love with functional programming languages. At the moment, I'm teaching m
   - CI/CD Pipeline creator
   - Automation promoter
 
+Older projects (like it would be on my summary) are available in [project.md](/projects.md)
 <!--
 **Swissbite/swissbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
