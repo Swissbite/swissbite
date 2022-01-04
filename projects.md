@@ -1,47 +1,47 @@
-# Projects I worked on in the last ~5 Years
+# Projects I worked on in the last ~5 years
 
 Side note: This list may not be complete. This are the projects I can note on my resumee and are - therefore - not sensitiv
 
-## 2020 - heute - EnergieSchweiz.ch
-Relaunch Energie Schweiz mit Contentful als Heedless CMS
+## 2020 - today - [EnergieSchweiz.ch](https://www.energieschweiz.ch)
+Relaunch EnergieSchweiz with Contentful as headless CMS
 
-Tätigkeiten:
+Activities:
 
-- Architektur Platform
-- Architektur Content Model
-- Architektur Systemintegrationen
+- Architecture Platform
+- Architecture Content Model
+- Architecture System Integrations
 
-Technologien / Produkte:
-	Contentful, Algolia, GatsbyJS, Scala, Gitlab als CI/CD, Kubernetes / Ranger
+Technologies / Products:
+	Contentful, Algolia, Gatsby, Scala, GitLab as CI/CD, Kubernetes / Ranger.
 
-## 2018 – 2020	Salz.ch
-Relaunch salz.ch mit Drupal als Headless CMS,	Magento als Shop System, Appollo GraphQL Fedaration, NuxtJS
+## 2018 - 2020 [salz.ch](https://www.salz.ch)
+Relaunch [salz.ch](https://www.salz.ch) with Drupal as headless CMS, Magento as e-commerce system, Apollo GraphQL Federation, NuxtJS.
 
-Tätigkeiten:
-- Architektur Platform
-- Architektur Systemintegrationen
+Activities:
+- Architecture Platform
+- Architecture System Integrations
 - Team Enabler
 
-Technologien / Produkte:
-	Drupal, Magento, NuxtJS, Apollo GraphQL Federation, Teamcity als CI, Octopus als CD, Kubernetes / Ranger
+Technologies / Products:
+	Drupal, Magento, NuxtJS, Apollo GraphQL Federation, Teamcity as CI, Octopus as CD, Kubernetes / Ranger.
 
-## 2018 – heute	Jungfraubahnen Middleware
-Die Middleware der Jungfraubahnen ist die zentrale Datendrehscheibe für jegliche Daten, welche auf der Website von Drittsystemen angezeigt werden sollen.
+## 2018 - today Jungfrau Railways Middleware
+Jungfraubahnen's middleware is the central data hub for any data to be displayed on the website by third-party systems.
 
-Tätigkeiten:
-- Architektur
+Activities:
+- Architecture
 - Software Engineering in Scala / Java
-- Migration von Apache Camel / Apache Servicemix zu Apache Camel / Spring Boot
+- Migration from Apache Camel / Apache Servicemix to Apache Camel / Spring Boot
 
-Technologien / Produkte:
-	Spring Boot, Apache Camel, Scala, Java, Google Kubernetes Engine, 	Gitlab
+Technologies / Products:
+	Spring Boot, Apache Camel, Scala, Java, Google Kubernetes Engine, GitLab.
 
-## 2017 – heute	ZVV – Kundendatensystem
-Das ZVV Kundendatensystem oder Kundenkonto ist der zentrale Einstiegspunkt für SelfService beim ZVV. 
+## 2017 - today ZVV - Customer Data System
+The ZVV customer data system or customer account is the central entry point for Self-service at ZVV. 
 
-Tätigkeiten:
-- Architektur
+Activities:
+- Architecture
 - Software Engineering in Kotlin
 	
-Technologien / Produkte:
-	Spring Boot, Spring Security, SQL (JOOQ, Flyway), Angular, TypeScript, 	NOVA, OAuth2
+Technologies / Products:
+	Spring Boot, Spring Security, SQL (JOOQ, Flyway), Angular, TypeScript, NOVA, OAuth2.
