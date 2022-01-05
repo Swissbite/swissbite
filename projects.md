@@ -1,6 +1,6 @@
 # Projects I worked on in the last ~5 years
 
-Side note: This list may not be complete. This are the projects I can note on my resumee and are - therefore - not sensitiv
+Side note: This list may not be complete. These are the projects I can note on my resume and are - therefore - not sensitive.
 
 ## 2020 - today - [EnergieSchweiz.ch](https://www.energieschweiz.ch)
 Relaunch [energieschweiz.ch](https://www.energieschweiz.ch), redesign of the architecture to a completely headless, content reusable and statically generated site with many services and tools. 
