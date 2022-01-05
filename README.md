@@ -16,7 +16,7 @@ I'm in love with functional programming languages. At the moment, I'm teaching m
   - Content model architect
   - Software engineer and technical lead
   - Author of a [blog post](https://www.unic.com/de/magazin/experten-blog/2021/headless-energieschweiz) about the architecture
-- Relaunch of [salz.ch](https://www.salz.ch), ddesigned the headless architecture and guided the team to build a distributed system
+- Relaunch of [salz.ch](https://www.salz.ch), designed the headless architecture and guided the team to build a distributed system
   - Solution architect
   - DevOps enabler
   - Kubernetes tamer
