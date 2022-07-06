@@ -14,6 +14,7 @@ I'm in love with functional programming languages. At the moment, I'm teaching m
 - Architecting the MVP of [joblex.ch](https://www.joblex.ch) as a POC for [kfmv](https://www.kfmv.ch/). My roles:
   - Software and solution architect
   - Solution and tooling seeker for edge case issues
+    - Ensure (kind of) transactions over service borders and solution providers
     - Cache data until payment has been setteled
     - Ensure caching handling is resilient but cleans itself without ever the need of manual handling
     - Work with outdated communication media (such as email) as data target
