@@ -11,6 +11,12 @@ I'm in love with functional programming languages. At the moment, I'm teaching m
 3. *Français* (Je vous demande d'être indulgent.)
 
 ### My last projects
+- Architecting the MVP of [joblex.ch](https://www.joblex.ch) as a POC for [kfmv](https://www.kfmv.ch/). My roles:
+  - Software and solution architect
+  - Solution and tooling seeker for edge case issues
+    - Cache data until payment has been setteled
+    - Ensure caching handling is resilient but cleans itself without ever the need of manual handling
+    - Work with outdated communication media (such as email) as data target
 - Relaunch [energieschweiz.ch](https://www.energieschweiz.ch), redesign of the architecture to a completely headless, content reusable and statically generated site with many services and tools. My roles:
   - Software and solution architect
   - Content model architect
