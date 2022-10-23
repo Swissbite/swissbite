@@ -34,9 +34,11 @@ An overview of my projects (like it would be on a way to long summary) are avail
 
 ## 💬 My field of interests
 ### In the field of software
-- Anything about CI/CD in the view of using the systems. I worked with GitLab with Argo CD  and GKE (helm and kustomize), Team City with octopus, GitHub.
+- Anything about CI/CD in the view of using the systems. I worked with GitLab connected to  Argo CD and (G)KE (helm and kustomize), Team City with Octopus, GitHub and the GitHub Actions world (fly.io, Heroku, etc. pp).
   - On my list: Azure DevOps, JetBrains Space
-- Anything about software architecture, mostly in the way how to make it resilient and "simple" by reducing unneeded complexity
+- All about software architecture, especially how to make it resilient and "simple" by reducing unnecessary complexity
+- All about web and technologies and what we can do today with the stack we have
+  - Except the details of CSS. I'm unable to write nice and shiny websites by my own. But I can design, write and test your next middleware to collect all data from untrusted and unreliable services to have a solid and up-to-date data set 💰.
 
 ### Personal
 - Anything about parenting 😁
