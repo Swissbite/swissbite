@@ -5,6 +5,8 @@ Side note: This list may not be complete. These are the projects I can note on m
 ## 2020 - today: [EnergieSchweiz.ch](https://www.energieschweiz.ch)
 Relaunch [energieschweiz.ch](https://www.energieschweiz.ch), redesign of the architecture to a completely headless, content reusable and statically generated site with many services and tools. 
 
+In 2022, with the same technical setup and infrastructure, EnergieSchweiz launched two distinct campaigns ([fahr-mit-dem-strom.ch](https://www.fahr-mit-dem-strom.ch), [nicht-verschwenden.ch](https://www.nicht-verschwenden.ch) and in addition their buisness report in a digital way. This included the enhancement of the content model as well improvment of the abilities of styling and animations in the setup.
+
 My roles:
 
 - Software and solution architect
