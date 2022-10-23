@@ -2,7 +2,7 @@
 
 Side note: This list may not be complete. These are the projects I can note on my resume and are - therefore - not sensitive.
 
-## 2020 - today - [EnergieSchweiz.ch](https://www.energieschweiz.ch)
+## 2020 - today: [EnergieSchweiz.ch](https://www.energieschweiz.ch)
 Relaunch [energieschweiz.ch](https://www.energieschweiz.ch), redesign of the architecture to a completely headless, content reusable and statically generated site with many services and tools. 
 
 My roles:
@@ -14,7 +14,7 @@ My roles:
 Technologies / Products:
 	Contentful, Algolia, Gatsby, Scala, GitLab as CI/CD, Kubernetes / Ranger.
 
-## 2018 - 2020 [salz.ch](https://www.salz.ch)
+## 2018 - 2020: [salz.ch](https://www.salz.ch)
 Relaunch [salz.ch](https://www.salz.ch) with Drupal as headless CMS, Magento as e-commerce system, Apollo GraphQL Federation, NuxtJS.
 
 My roles:
@@ -27,7 +27,7 @@ My roles:
 Technologies / Products:
 	Drupal, Magento, NuxtJS, Apollo GraphQL Federation, Teamcity as CI, Octopus as CD, Kubernetes / Ranger.
 
-## 2018 - today Jungfrau Railways Middleware
+## 2018 - today: Jungfrau Railways Middleware
 Jungfraubahnen's middleware is the central data hub for any data to be displayed on the website by third-party systems.
 
 My roles:
@@ -38,7 +38,7 @@ My roles:
 Technologies / Products:
 	Spring Boot, Apache Camel, Scala, Java, Google Kubernetes Engine, GitLab.
 
-## 2017 - today ZVV - Customer Data System
+## 2017 - today: ZVV - Customer Data System
 The ZVV customer data system or customer account is the central entry point for Self-service at ZVV. 
 
 My roles:
