@@ -43,6 +43,10 @@ An overview of my projects (like it would be on a way to long summary) are avail
 ### Personal
 - Anything about parenting 😁
 
+### My other online profiles
+- <a rel="me" href="https://swiss.social/@swissbite">Mastodon</a>
+
+
 <!--
 **Swissbite/swissbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
