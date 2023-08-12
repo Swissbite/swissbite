@@ -39,6 +39,13 @@ An overview of my projects (like it would be on a way to long summary) are avail
 - All about software architecture, especially how to make it resilient and "simple" by reducing unnecessary complexity
 - All about web and technologies and what we can do today with the stack we have
   - Except the details of CSS. I'm unable to write nice and shiny websites by my own. But I can design, write and test your next middleware to collect all data from untrusted and unreliable services to have a solid and up-to-date data set 💰.
+ 
+#### Prefered programming languages (in alphabetical order)
+- Java (only if there are reglementations where I cannot use Kotlin. But this is mostly a 🚩)
+- JavaScript (for really small stuff and most kind of a one time shooter, or - in some cases - just for the browser without any transpilers / additional libraries, etc)
+- Kotlin
+- Scala
+- TypeScript (for real nodejs applications or real frontend development)
 
 ### Personal
 - Anything about parenting 😁
