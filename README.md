@@ -52,6 +52,7 @@ An overview of my projects (like it would be on a way to long summary) are avail
 
 ### My other online profiles
 - <a rel="me" href="https://swiss.social/@swissbite">Mastodon</a>
+- <a rel="me" href="https://www.linkedin.com/in/david-d%C3%A4ster/">LinkedIn</a>
 
 
 <!--
