@@ -3,7 +3,7 @@ I'm a human, a husband, a dad and on my job a software architect and software en
 
 I grew up with coffee, so I'm very familiar with the **JVM** stack. But do not ask me to programm in Java, I advocate for [**Kotlin**](https://kotlinlang.org/) or [**Scala**](https://www.scala-lang.org/).
 
-I'm in love with functional programming languages. At the moment, I'm teaching myself [**elm**-lang](https://elm-lang.org/). My self-teaching project is (yet another) [**elm-minesweeper**](https://github.com/swissbite/elm-minesweeper)
+I'm in love with functional programming languages. My self-teaching project is (yet another) [**elm-minesweeper**](https://github.com/swissbite/elm-minesweeper)
 
 ## Languages I can communicate with you:
 1. (Swiss)-German, as my mother tongue.
@@ -23,6 +23,7 @@ I'm in love with functional programming languages. At the moment, I'm teaching m
   - Content model architect
   - Software engineer and technical lead
   - Author of a [blog post](https://www.unic.com/de/magazin/experten-blog/2021/headless-energieschweiz) about the architecture
+  - Migrating from Kubernetes and GitLab to Azure and Azure DevOps
 - Relaunch of [salz.ch](https://www.salz.ch), designed the headless architecture and guided the team to build a distributed system
   - Solution architect
   - DevOps enabler
@@ -34,8 +35,7 @@ An overview of my projects (like it would be on a way to long summary) are avail
 
 ## 💬 My field of interests
 ### In the field of software
-- Anything about CI/CD in the view of using the systems. I worked with GitLab connected to  Argo CD and (G)KE (helm and kustomize), Team City with Octopus, GitHub and the GitHub Actions world (fly.io, Heroku, etc. pp).
-  - On my list: Azure DevOps, JetBrains Space
+- Anything about CI/CD in the view of using the systems. I worked with GitLab connected to  Argo CD and (G)KE (helm and kustomize), Team City with Octopus, GitHub and the GitHub Actions world (fly.io, Heroku, etc. pp), Azure DevOps with Azure Deployments.
 - All about software architecture, especially how to make it resilient and "simple" by reducing unnecessary complexity
 - All about web and technologies and what we can do today with the stack we have
   - Except the details of CSS. I'm unable to write nice and shiny websites by my own. But I can design, write and test your next middleware to collect all data from untrusted and unreliable services to have a solid and up-to-date data set 💰.
